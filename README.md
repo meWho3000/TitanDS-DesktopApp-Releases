@@ -26,8 +26,9 @@ Since this app isn't code-signed, you may see security or anti-virus warnings wh
 <br><br>
 
 ## Downloads
-* 2025.Jan.16 -- **v0.5.0 beta** for Windows & macOS<br>https://github.com/meWho3000/TitanDS-DesktopApp-Releases/releases/tag/v0.5.0-beta
-* 2024.Dec.29 -- **v0.0.1 alpha** for Windows & macOS<br>https://github.com/meWho3000/TitanDS-DesktopApp-Releases/releases/tag/v0.0.1-alpha
+* 2025.JAN.16 -- **v0.5.0 Beta** for Windows & macOS<br>https://github.com/meWho3000/TitanDS-DesktopApp-Releases/releases/tag/v0.5.0-beta<br>
+👉 Zip file of the Windows version had a file corruption error. It has been fixed.
+* 2024.DEC.29 -- **v0.0.1 Alpha** for Windows & macOS<br>https://github.com/meWho3000/TitanDS-DesktopApp-Releases/releases/tag/v0.0.1-alpha
 * All versions are stored in the **Releases** section of this repo. (On each release page, scroll down to the **Assets** section)<br>
 https://github.com/meWho3000/TitanDS-DesktopApp-Releases/releases
 <br><br>
